@@ -83,6 +83,167 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2022-09-02",
+      "description": "movie",
+      "category": "Entertainment",
+      "amount": "799",
+      "id": 13
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 14
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 15
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 16
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 17
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 18
+    },
+    {
+      "date": "2022-09-02",
+      "description": "movie",
+      "category": "Entertainment",
+      "amount": "43",
+      "id": 19
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 20
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 21
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 22
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 23
+    },
+    {
+      "date": "2022-09-02",
+      "description": "movie",
+      "category": "Entertainment",
+      "amount": "432",
+      "id": 24
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 25
+    },
+    {
+      "date": "2022-09-03",
+      "description": "movie",
+      "category": "Entertainment",
+      "amount": "79",
+      "id": 26
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 27
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 28
+    },
+    {
+      "date": "2022-09-03",
+      "description": "movie",
+      "category": "Entertainment",
+      "amount": "342",
+      "id": 29
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 30
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 31
+    },
+    {
+      "date": "2022-09-03",
+      "description": "movie",
+      "category": "Entertainment",
+      "amount": "43",
+      "id": 32
+    },
+    {
+      "date": "2022-09-03",
+      "description": "movie",
+      "category": "Entertainment",
+      "amount": "43",
+      "id": 33
+    },
+    {
+      "date": "2022-09-15",
+      "description": "Action",
+      "category": "Thriller",
+      "amount": "347",
+      "id": 34
+    },
+    {
+      "date": "2022-09-22",
+      "description": "War",
+      "category": "Cinema",
+      "amount": "112",
+      "id": 35
     }
   ]
 }
