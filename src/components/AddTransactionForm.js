@@ -25,22 +25,20 @@ function AddTransactionForm(props) {
         ]);
       })
   }
-  function handleChange(evt) {
+  function handleChange(event) {
     setState({
       ...state,
-      [evt.target.name]: evt.target.value,
+      [event.target.name]: event.target.value,
     });
   }
-
-
   return (
     <div className="ui segment">
-      <form className="ui form">
+      <form onSubmit={handleSubmit} className="ui form">
         <div className="inline fields">
-          <input type="date" name="date" />
-          <input type="text" name="description" placeholder="Description" />
-          <input type="text" name="category" placeholder="Category" />
-          <input type="number" name="amount" placeholder="Amount" step="0.01" />
+          <input onChange={handleChange} type="date" name="date" />
+          <input onChange={handleChange} type="text" name="description" placeholder="Description" />
+          <input onChange={handleChange} type="text" name="category" placeholder="Category" />
+          <input onChange={handleChange} type="number" name="amount" placeholder="Amount" step="0.01" />
         </div>
         <button className="ui button" type="submit">
           Add Transaction
