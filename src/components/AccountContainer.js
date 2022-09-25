@@ -14,11 +14,13 @@ function AccountContainer() {
         setTransactions(data);
       });
     }, []);
-    
+
     return (
     <div>
       <Search />
       <AddTransactionForm />
+      transactions = {transactions}
+      setTransactions = {setTransactions}
       <TransactionsList />
     </div>
   );
