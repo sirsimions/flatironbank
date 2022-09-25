@@ -1,6 +1,6 @@
 import React from "react";
 
-function Search(props) {
+const Search = (props) =>{
   function handleChange(event){
     return props.searchFun(event.target.value)
   }
@@ -9,7 +9,7 @@ function Search(props) {
       <input
         type="text"
         placeholder="Search your Recent Transactions"
-        onChange={() => console.log("Searching...")}
+        onChange={(handleChange) => console.log("Searching...")}
       />
       <i className="circular search link icon"></i>
     </div>
