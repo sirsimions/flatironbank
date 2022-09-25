@@ -1,6 +1,9 @@
 import React from "react";
 
-function Search() {
+function Search(props) {
+  function handleChange(event){
+    return props.searchFun(event.target.value)
+  }
   return (
     <div className="ui large fluid icon input">
       <input
