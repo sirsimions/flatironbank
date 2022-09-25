@@ -3,7 +3,7 @@ import TransactionsList from "./TransactionsList";
 import Search from "./Search";
 import AddTransactionForm from "./AddTransactionForm";
 
-function AccountContainer(props) {
+function AccountContainer() {
   const [search, setSearch] = useState('');
   const [transactions, setTransactions] = useState([]);
  
@@ -14,7 +14,6 @@ function AccountContainer(props) {
         setTransactions(data);
       });
     }, []);
-
 
     return (
     <div>
