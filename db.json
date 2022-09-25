@@ -244,6 +244,13 @@
       "category": "Cinema",
       "amount": "112",
       "id": 35
+    },
+    {
+      "date": "2022-09-02",
+      "description": "kulahu",
+      "category": "midi",
+      "amount": "342",
+      "id": 36
     }
   ]
 }
