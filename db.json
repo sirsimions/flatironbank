@@ -265,6 +265,13 @@
       "category": "Nantes",
       "amount": "9000",
       "id": 38
+    },
+    {
+      "date": "2022-08-31",
+      "description": "RoseMary",
+      "category": "Teacher",
+      "amount": "12344329890987877982",
+      "id": 39
     }
   ]
 }
