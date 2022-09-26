@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/http//sirsimions.github.io/flatironbank/static/css/main.36b1c42b.chunk.css",
+    "main.js": "/http//sirsimions.github.io/flatironbank/static/js/main.55b0173c.chunk.js",
+    "main.js.map": "/http//sirsimions.github.io/flatironbank/static/js/main.55b0173c.chunk.js.map",
+    "runtime-main.js": "/http//sirsimions.github.io/flatironbank/static/js/runtime-main.4639e302.js",
+    "runtime-main.js.map": "/http//sirsimions.github.io/flatironbank/static/js/runtime-main.4639e302.js.map",
+    "static/css/2.591d5890.chunk.css": "/http//sirsimions.github.io/flatironbank/static/css/2.591d5890.chunk.css",
+    "static/js/2.f55ebdbd.chunk.js": "/http//sirsimions.github.io/flatironbank/static/js/2.f55ebdbd.chunk.js",
+    "static/js/2.f55ebdbd.chunk.js.map": "/http//sirsimions.github.io/flatironbank/static/js/2.f55ebdbd.chunk.js.map",
+    "index.html": "/http//sirsimions.github.io/flatironbank/index.html",
+    "static/css/2.591d5890.chunk.css.map": "/http//sirsimions.github.io/flatironbank/static/css/2.591d5890.chunk.css.map",
+    "static/css/main.36b1c42b.chunk.css.map": "/http//sirsimions.github.io/flatironbank/static/css/main.36b1c42b.chunk.css.map",
+    "static/js/2.f55ebdbd.chunk.js.LICENSE.txt": "/http//sirsimions.github.io/flatironbank/static/js/2.f55ebdbd.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/http//sirsimions.github.io/flatironbank/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4639e302.js",
+    "static/css/2.591d5890.chunk.css",
+    "static/js/2.f55ebdbd.chunk.js",
+    "static/css/main.36b1c42b.chunk.css",
+    "static/js/main.55b0173c.chunk.js"
+  ]
+}
